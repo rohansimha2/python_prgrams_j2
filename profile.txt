@@ -1,0 +1,80 @@
+** profile building training***
+
+1 pyton programming
+2 data analysis
+3 machine learning
+4 AL
+5 web development
+6 google
+7 work shops (embedded system )
+8 robotics
+
+Google Products
+
+1 introduction to Gmail , drive, docs , sheets , forms
+2 using google meet , calendar, and jam board
+3 creating quizzes and surveys using google forms
+4 collaborating in real time using workspace
+
+*** PYTHON PROGRAMMING***
+1 INTRODUCTION TO PYTHON : variables data types input/output
+2 CONTROL STRUCTURES: IF,FOR,WHILE,LOOPS
+3 FUNCTIONS, MODULES AND PACKING
+4 DATA STRUCTURE: lists , tuples , sets , dictionaries
+5 file handing and exception handing
+6 object oriented and programming concepts
+
+SQL( STRUCTURAL AND LANGUAGE)
+
+1 introduction to databases and sql
+2BASIC SQL QUERIES :select where order by
+3 aggregate functions and groping
+4 join operating inner left right full
+5 subqueries and data manipulation
+(INSERT, UPDATE,DELETE)
+
+
+WEB TECHOLOGIES (HTML AND CSS )																								
+
+1 HTML basics tags forms media tables
+2 css basics : selectors box model, layout
+3 mini web project using html and CSS
+4 responsive design using CSS grid and flexbox
+
+
+DJANGO WEB FRAMEWORK
+
+1 introduction to Django and project setup
+2 models, views ,templates (MTV architecture)
+3 Django admin forms and crud operations
+4 integration frontend with Django backend
+5 mini web project using Django
+
+MACHING LEARNING
+1 what is machine learning ? supervised vs unsupervised
+2 regression and classification algorithms
+3 model evaluation : accuracy, precision recall
+4 decision trees and random forest
+
+ARTIFICIAL INTELLIGENCE
+1 introduction to al and its real-world application
+2 basics of natural language processing  (NLP)
+3 simple al tool and libraries overview
+4 mini al project (e.g.,chatbot or text classifier
+
+DATA ANALISIS(PANDA , NUMPY , MATPLOTLIB )
+1 introduction to NUMPY : Arrays operations
+2 pandas basics : series , data frames, data cleaning
+3 data merging, Grouping and wrangling
+4 Data visualization using matplotlib and seaborn
+5 mini project : exploratory data analysis
+
+
+WORKSHOPS AND EVENTS
+
+1 embedded systems workshop using Arduino
+2 drone technologies : basics and live demo
+3 Robotics Workshop: Building Simple Robots
+4 12-Hour Hackathon: Real Time Problem Solving Challenge
+5 Career Guidance: Resume Building, GitHub, LinkedIn
+6 Certification Ceremony
